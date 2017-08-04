@@ -1,13 +1,16 @@
 # CS111-Concept-Practice
 
-Static Webpage meant to provide practice problems for students in Introductory Computer Science.
+Static Webpage meant to provide practice problems for students in introductory Computer Science courses.
 
 ## Skills Tested
 
-**Current**:
+**Current**
 
     - Binary to Decimal Conversion
     - Decimal to Binary Conversion
+
+*In Progress*
+
     - Truth Table Generation
     - Conditional Logic Simplification
 
@@ -29,6 +32,6 @@ But now that I have the "web skills" required to write an easily accesible Webpa
 
 ### Tech
 
-JavaScript & HTML
+HTML, JavaScript, & jQuery
 
 I might add some Bootstrap flair later on.
