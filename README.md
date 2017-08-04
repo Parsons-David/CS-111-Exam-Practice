@@ -23,7 +23,7 @@ This site isn't meant to be a more comprehensive and effective answer to a quest
 
 How can I study for the exam?
 
-Oringinally I created [this](docs/CS 111 Fall 2016 Binary, Truth Table, and Conditional Practice.pdf), as an answer to that question.
+Oringinally I created [this](/docs/CS%20111%20Fall%202016%20Binary%2C%20Truth%20Table%2C%20and%20Conditional%20Practice.pdf), as an answer to that question.
 
 But now that I have the "web skills" required to write an easily accesible Webpage for students to use instead, I created this.
 
