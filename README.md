@@ -22,7 +22,7 @@ Static Webpage meant to provide practice problems for students in introductory C
 
 ### Puporse
 
-This site isn't meant to be a more comprehensive and effective answer to a question I get every semester as a Rutgers University CS 111 TA.
+This site is meant to be a more comprehensive and effective answer to a question I get every semester as a Rutgers University CS 111 TA.
 
 How can I study for the exam?
 
